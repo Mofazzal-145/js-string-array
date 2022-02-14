@@ -14,3 +14,4 @@ console.log(numbers);
 const numbersSpliced2 = numbers.splice(4, 3, 45, 22, 33);
 console.log(numbersSpliced2);
 console.log(numbers);
+
